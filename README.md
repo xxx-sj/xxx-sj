@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/> -->
-<img src="https://img.shields.io/badge/F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/none-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
 
 * * *
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxx-sj&langs_count=8)](https://github.com/xxx-sj/github-readme-stats)     
