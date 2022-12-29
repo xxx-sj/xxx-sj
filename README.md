@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/JavaScript-5DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-5DFF84?style=flat-square&logo=Android&logoColor=white"/>
 
 * * *
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxx-sj&langs_count=8)](https://github.com/xxx-sj/github-readme-stats)     
