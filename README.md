@@ -21,9 +21,6 @@ Here are some ideas to get you started:
     languages
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/java-F7DF1E?style=plastic&logo=java&logoColor=black"/>
-      <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=plastic&logo=JAVA&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Java-F7DF1E?style=plastic&logo=Java&logoColor=black"/>
-      <img src="https://img.shields.io/badge/JaVa-F7DF1E?style=plastic&logo=JaVa&logoColor=black"/>
     <img src="https://img.shields.io/badge/android-3DDC84?style=plastic&logo=Android&logoColor=white"/> 
     <img src="https://img.shields.io/badge/kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
