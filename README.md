@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <img src="https://img.shields.io/badge/none-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/> -->
-<div align=center>
+<!-- <div align=center>
   <div align=center>
     languages
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/>
@@ -48,11 +48,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Leaflet-199900?style=plastic&logo=Leaflet&logoColor=white"/>
   </div>
-  <div>
+</div> -->
+ <div>
     Learn in
     <img src="https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white"/>
   </div>
-</div>
 
 * * *
      
