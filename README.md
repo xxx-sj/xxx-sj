@@ -58,6 +58,6 @@ Here are some ideas to get you started:
      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxx-sj&langs_count=8)](https://github.com/xxx-sj/github-readme-stats)     
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxx-sj&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxx-sj&show_icons=true&theme=radical) -->
 
   
