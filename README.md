@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- <img src="https://img.shields.io/badge/none-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/> -->
 <!-- <div align=center>
   <div align=center>
@@ -53,9 +52,9 @@ Here are some ideas to get you started:
     Learn in
     <img src="https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white"/>
   </div>
-
+  
 * * *
-     
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loky109)](https://solved.ac/loky109/)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxx-sj&langs_count=8)](https://github.com/xxx-sj/github-readme-stats)     
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxx-sj&show_icons=true&theme=radical) -->
