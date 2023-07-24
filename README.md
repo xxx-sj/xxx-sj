@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   </div>
   
 * * *
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loky109)](https://solved.ac/loky109/)   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=loky109)](https://solved.ac/loky109/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxx-sj&langs_count=8)](https://github.com/xxx-sj/github-readme-stats)     
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxx-sj&show_icons=true&theme=radical) -->
